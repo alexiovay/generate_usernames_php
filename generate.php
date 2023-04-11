@@ -1,4 +1,6 @@
-    public function generateUsername($gender = 0)
+<?php
+
+public function generateUsername($gender = 0)
     {
         $nameFile = $gender === 0 ? 'prenames_female.txt' : 'prenames_male.txt';
         $path = __DIR__.'/'.$nameFile;
