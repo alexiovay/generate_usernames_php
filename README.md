@@ -4,4 +4,4 @@ This is very useful to create generic usernames for male and female users. Two .
 
 In my case my social network "asklocals.com" needs this script to generate `Eloquent` DB entries for `Laravel` to extend to the username feature since previously there were only prenames/first names allowed.
 
-<img src="https://i.ibb.co/x2Q5jps/Screenshot-2023-04-11-at-02-04-03.png" width="100" alt="Usernames example" />
+<img src="https://i.ibb.co/x2Q5jps/Screenshot-2023-04-11-at-02-04-03.png" width="400" alt="Usernames example" />
