@@ -1,4 +1,4 @@
-# Generate Beautiful Usernames (in use at AskLocals.com)
+# Generate Authentic Usernames (in use at AskLocals.com)
 
 This is very useful to create generic usernames for male and female users. Two .txt files for common male and female prenames is included. You can use this script to suggest usernames or create random usernames to test user profiles or any other cases you might need it for. 
 
